@@ -20,11 +20,5 @@
      "CPU_mpi": 11,
      "RAM_mpi": 26,
      "CPU_comparateur": 7,
-     "RAM_comparateur": 31,
-     "CPU_websphere": 0,
-     "RAM_websphere": 0,
-     "CPU_D&V_Services": 4,
-     "RAM_D&V_Services": 30,
-     "CPU_offres_cuisines": 3,
-     "RAM_offres_cuisines": 37
+     "RAM_comparateur": 31
 }
